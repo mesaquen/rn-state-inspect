@@ -1,0 +1,10 @@
+{
+  "name": "@mesaquen/react-native-state-view",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mesaque do Nascimento Francisco <mesaque.francisco@wssim.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "@react-native-community/bob": "^0.5.0"
+  }
+}
