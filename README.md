@@ -21,3 +21,6 @@ render() {
     );
 }
 ```
+
+An example of the rendered component is:
+![demo](./docs/images/state_inspect_demo.png)
