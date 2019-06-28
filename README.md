@@ -22,5 +22,5 @@ render() {
 }
 ```
 
-An example of the rendered component is:  
+Example of the rendered component:  
   ![demo](./docs/images/state_inspect_demo.png)
