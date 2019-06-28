@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react';
 import { ScrollView, Text, View } from 'react-native';
 import PropTypes from 'prop-types';
-import Style from './StateView.style';
+import Style from './StateInspect.style';
 /**
  * @author Mesaque Francisco <mesaquenf@gmail.com>
  * @since 2019-06-27
