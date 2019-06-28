@@ -1,24 +1,28 @@
 {
-  "name": "@mesaquen/react-native-state-view",
-  "version": "1.0.0",
-  "main": "lib\\commonjs\\index.js",
-  "author": "Mesaque do Nascimento Francisco <mesaque.francisco@wssim.com.br>",
+  "name": "@mesaquen/rn-state-inspect",
+  "version": "0.1.0",
+  "main": "lib/commonjs/index.js",
+  "module": "lib/module/index.js",
+  "author": "Mesaque do Nascimento Francisco <mesaquenf@gmail.com>",
   "license": "MIT",
-  "react-native": "src\\index.js",
-  "module": "lib\\module\\index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mesaquen/rn-state-inspect.git"
+  },
+  "react-native": "src/index.js",
   "scripts": {
     "prepare": "bob build"
   },
   "files": [
-    "src",
-    "lib"
+    "src/",
+    "lib/"
   ],
   "@react-native-community/bob": {
     "source": "src",
     "output": "lib",
     "targets": [
-      "commonjs",
-      "module"
+      "module",
+      "commonjs"
     ]
   },
   "peerDependencies": {
@@ -30,8 +34,6 @@
   },
   "devDependencies": {
     "@react-native-community/bob": "^0.5.0",
-    "@wealthsystems/prettier-config": "^1.0.0-alpha.1",
     "prettier": "^1.17.1"
-  },
-  "prettier": "@wealthsystems/prettier-config"
+  }
 }

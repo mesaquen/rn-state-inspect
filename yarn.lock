@@ -597,11 +597,6 @@
   resolved "https://nexus.wssim.com.br/repository/cloud-npm-all/@types/node/-/node-12.0.7.tgz#4f2563bad652b2acb1722d7e7aae2b0ff62d192c"
   integrity sha512-1YKeT4JitGgE4SOzyB9eMwO0nGVNkNEsm9qlIt1Lqm/tG2QEiSMTD4kS3aO6L+w5SClLVxALmIBESK6Mk5wX0A==
 
-"@wealthsystems/prettier-config@^1.0.0-alpha.1":
-  version "1.0.0-alpha.1"
-  resolved "https://nexus.wssim.com.br/repository/cloud-npm-all/@wealthsystems/prettier-config/-/prettier-config-1.0.0-alpha.1.tgz#e1a6f2021afdd34c36a57e0f5f9198f356c47d12"
-  integrity sha512-rjZJxAjSmp9OL9iTo2IenNutnG30c1lIJ+tYzLigbfqbY0BaUIcuiylsM5L5B5iNoRe9dXt+rhlwGghTUqt7cg==
-
 ansi-escapes@^3.2.0:
   version "3.2.0"
   resolved "https://nexus.wssim.com.br/repository/cloud-npm-all/ansi-escapes/-/ansi-escapes-3.2.0.tgz#8780b98ff9dbf5638152d1f1fe5c1d7b4442976b"
